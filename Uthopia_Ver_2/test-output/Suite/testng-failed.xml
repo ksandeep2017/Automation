@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="Functional_TestCase_HomePage.HomePage_Test">
+        <methods>
+          <include name="beforeTestCofig"/>
+          <include name="tearDown"/>
+          <include name="HomePage"/>
+        </methods>
+      </class> <!-- Functional_TestCase_HomePage.HomePage_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
