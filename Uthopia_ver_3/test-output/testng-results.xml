@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Step1]]>
+    </line>
+    <line>
+      <![CDATA[Entered Step2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="429189" started-at="2017-02-05T17:48:19Z" finished-at="2017-02-05T17:55:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="429189" started-at="2017-02-05T17:48:19Z" finished-at="2017-02-05T17:55:28Z">
+      <class name="Functional_TestCase_HomePage.HomePage_Test">
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:Functional_TestCase_HomePage.HomePage_Test@43a25848]" name="HomePage" duration-ms="429157" started-at="2017-02-05T23:18:19Z" finished-at="2017-02-05T23:25:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step1]]>
+            </line>
+            <line>
+              <![CDATA[Entered Step2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- Functional_TestCase_HomePage.HomePage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
